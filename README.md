@@ -15,11 +15,16 @@ Dataset 1 (123 MB): [https://kth.box.com/v/spcup2021-dataset1](https://kth.box.c
 Dataset 2 (1.5 GB): [https://kth.box.com/v/spcup2021-dataset2](https://kth.box.com/v/spcup2021-dataset2)
 
 
+## Ask questions and interact with other teams:
+
+We use Piazza as Q/A plattform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
+
+
 ## Important dates
 
 Release of the dataset and detailed instructions: February 1, 2021
 
-Registration of team: March 1, 2021
+Registration of team (by entering the Piazza group and sending an email to emilbjo@kth.se): March 1, 2021
 
 Submission deadline: April 26, 2021
 
