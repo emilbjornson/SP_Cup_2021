@@ -15,7 +15,7 @@ A detailed description of the IEEE Signal Processing Cup 2021 is found in the do
 
 Here is brief information about the competition aspects:
 
-**Eligibility:** Any team composed of one faculty member, at most one graduate student and 3-10 undergraduate students is welcomed to join the open competition.
+**Eligibility:** Any team composed of 3-10 undergraduate students, supervised by one faculty member and (at most) one graduate student, is welcome to join the open competition.
 
 **Dataset:** A novel dataset with transmitted and received signals, for different configurations, is provided for the challenge.
 
