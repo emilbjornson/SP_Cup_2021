@@ -1,10 +1,13 @@
 # IEEE Signal Processing Cup 2021
+**Configuring an Intelligent Reflecting Surface for Wireless Communications**
 
 The IEEE Signal Processing Society is proud to announce the eighth edition of the Signal Processing Cup: an exciting challenge to control a wireless propagation environment using an intelligent reflecting surface. 
 
 An intelligent reflecting surface is a two-dimensional array of metamaterial whose interaction with electromagnetic waves can be controlled, e.g., by tuning the impedance variations over the surface. These surfaces might be used in the sixth generation (6G) mobile technology to direct wireless signals from a transmitter towards a receiver, to raise the communication performance. The goal of the challenge is to characterize the behavior of an intelligent reflecting surface based on received signals from an over-the-air signaling phase and develop a control algorithm to configure the surface to aid wireless communications.
 
 <center><img src="https://signalprocessingsociety.org/sites/default/files/uploads/images/community_involvement/SPCup2021.jpg"></center>
+
+See the video introduction about the competition: https://youtu.be/Uy7lHEm-Ou0
 
 ## Detailed description
 
