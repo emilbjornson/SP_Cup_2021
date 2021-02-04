@@ -15,11 +15,15 @@ A detailed description of the IEEE Signal Processing Cup 2021 is found in the do
 
 Here is brief information about the competition aspects:
 
-**Eligibility:** Any team composed of 3-10 undergraduate students, supervised by one faculty member and (at most) one graduate student, is welcome to join the open competition.
+**Team composition:** The purpose of this competition is that teams of 3-10 undergraduate students (enrolled as Bachelor or Master students) compete and develop a solution, under the supervision of a faculty member (or someone else with a PhD degree) and (optionally) the tutorship of a PhD student or postdoc. It is the undergraduate students that are responsible for presenting their work on ICASSP 2021, if the team makes it to the final competition (see below). Detailed eligibility criteria are provided in the document [description.pdf](https://github.com/emilbjornson/SP_Cup_2021/blob/main/description.pdf)
 
 **Dataset:** A novel dataset with transmitted and received signals, for different configurations, is provided for the challenge.
 
 **Prize:** The three teams with highest performance in the open competition will be selected as finalists and will be invited to participate in the final competition at ICASSP 2021. The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively.
+
+**Sponsorship:** We gratefully acknowledge [MathWorks, Inc.](https://www.mathworks.com/academia/student-competitions/sp-cup.html) for their continued support of the IEEE Signal Processing Cup. Participating students are encouraged to download the complimentary [Mathworks Student Competitions Software](https://www.mathworks.com/academia/student-competitions/software-request-registration-sp-cup.html) for use in the competition.
+
+<center><img src="https://d32ogoqmya1dw8.cloudfront.net/images/matlab_computation2016/mathworks_logo.png"></center>
 
 ## Download datasets
 
@@ -30,7 +34,7 @@ Dataset 2 (1.5 GB): [https://kth.box.com/v/spcup2021-dataset2](https://kth.box.c
 
 ## Ask questions and interact with other teams:
 
-We use Piazza as Q/A plattform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
+We use Piazza as Q/A platform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
 
 
 ## Important dates
