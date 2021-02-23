@@ -32,22 +32,31 @@ Dataset 1 (123 MB): [https://kth.box.com/v/spcup2021-dataset1](https://kth.box.c
 Dataset 2 (1.5 GB): [https://kth.box.com/v/spcup2021-dataset2](https://kth.box.com/v/spcup2021-dataset2)
 
 
-## Ask questions and interact with other teams:
-
-We use Piazza as Q/A platform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
-
-
 ## Important dates
 
 Release of the dataset and detailed instructions: February 1, 2021
 
-Registration of team (by entering the Piazza group and sending an email to emilbjo@kth.se): March 1, 2021
+Registration of team (see below): March 1, 2021
 
 Submission deadline: April 26, 2021
 
 Finalists Announcement: May 3, 2021
 
 Final at ICASSP (virtual conference): June 6-11, 2021
+
+
+## Team registration
+
+Each team must register by March 1 in the following IEEE system:
+
+\url{https://www2.securecms.com/SPCup/SPCRegistration.asp}
+
+At least one member per team should also sign up to the Q/A platform Piazza (see below) to get announcements about events, changes in the instructions, and summarizes of Q/A.
+
+
+## Ask questions and interact with other teams:
+
+We use Piazza as Q/A platform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
 
 
 ## Learn more about intelligent reflecting surfaces
