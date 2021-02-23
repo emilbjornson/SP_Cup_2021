@@ -49,7 +49,7 @@ Final at ICASSP (virtual conference): June 6-11, 2021
 
 Each team must register by March 1 in the following IEEE system:
 
-\url{https://www2.securecms.com/SPCup/SPCRegistration.asp}
+https://www2.securecms.com/SPCup/SPCRegistration.asp
 
 At least one member per team should also sign up to the Q/A platform Piazza (see below) to get announcements about events, changes in the instructions, and summarizes of Q/A.
 
