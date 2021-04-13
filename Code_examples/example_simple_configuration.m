@@ -6,7 +6,6 @@ load dataset1;
 
 %% Given parameter values
 
-P = 1; %Transmit power in Watt
 B = 10e6; %Bandwidth in Hertz
 
 
