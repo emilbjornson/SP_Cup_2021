@@ -9,7 +9,21 @@ An intelligent reflecting surface is a two-dimensional array of metamaterial who
 
 See the video introduction about the competition: https://youtu.be/Uy7lHEm-Ou0
 
-## Detailed description
+See the summary video about the competition: https://youtu.be/vsCJqzKvtF8
+
+
+## Winners
+
+Winning team: T – Cubed, University of Moratuwa, Sri Lanka
+
+First runner-up: Team AGH, AGH University of Science and Technology, Poland
+
+Second runner-up: UnBounded, University of Brasilia, Brazil
+
+You can find descriptions of their solutions on YouTube: https://youtube.com/playlist?list=PLTv48TzNRhaIs9JZ1RqxTVdBjCMUYGdki
+
+
+## Detailed description of the competition
 
 A detailed description of the IEEE Signal Processing Cup 2021 is found in the document [description.pdf](https://github.com/emilbjornson/SP_Cup_2021/blob/main/description.pdf) in this repository.
 
@@ -31,6 +45,37 @@ Dataset 1 (123 MB): [https://kth.box.com/v/spcup2021-dataset1](https://kth.box.c
 
 Dataset 2 (1.5 GB): [https://kth.box.com/v/spcup2021-dataset2](https://kth.box.com/v/spcup2021-dataset2)
 
+When these links become outdated, the datasets can still be generated using generateDatasets.m in the folder Code_solutions
+
+
+## Ask questions and interact with other teams:
+
+We use Piazza as Q/A platform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
+
+
+## Sample solution
+
+Details about the dataset that were not disclosed during the competition, as well as the organizer's sample solution, are found in the paper "[Optimizing a Binary Intelligent Reflecting Surface for OFDM Communications under Mutual Coupling](https://arxiv.org/pdf/2106.04280.pdf)", arXiv:2106.04280
+
+The related code is provided in the folder Code_solutions, where:
+
+generateDatasets.m: Used generate the dataset
+testrate.m: Used to evaluate the rates and metric for a given set of configurations
+trueParameters.mat: Contains the true channel, needed to evaluate the rates
+plotFigureX.m: Used to create Figure X from the the paper mentioned above
+
+The remaining functions are called by the files mentioned above
+
+
+## Learn more about intelligent reflecting surfaces
+
+A tutorial article that brings you up to speed on the modeling and properties of this technology is:
+
+Emil Björnson, Henk Wymeersch, Bho Matthiesen, Petar Popovski, Luca Sanguinetti, Elisabeth de Carvalho, "[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://arxiv.org/pdf/2102.00742)", arXiv:2102.00742.
+
+
+# Outdated information
+
 
 ## Important dates
 
@@ -38,11 +83,11 @@ Release of the dataset and detailed instructions: February 1, 2021
 
 Registration of team (see below): March 1, 2021
 
-Submission deadline: April 26, 2021
+Submission deadline: May 9, 2021
 
-Finalists Announcement: May 3, 2021
+Finalists announced: May 12, 2021
 
-Final at ICASSP (virtual conference): June 6-11, 2021
+Final at ICASSP (virtual conference): June 6, 2021
 
 
 ## Team registration
@@ -52,15 +97,3 @@ Each team must register by March 1 in the following IEEE system:
 https://www2.securecms.com/SPCup/SPCRegistration.asp
 
 At least one member per team should also sign up to the Q/A platform Piazza (see below) to get announcements about events, changes in the instructions, and summarizes of Q/A.
-
-
-## Ask questions and interact with other teams:
-
-We use Piazza as Q/A platform: https://piazza.com/ieee_sps/spring2021/spcup2021/home
-
-
-## Learn more about intelligent reflecting surfaces
-
-A tutorial article that brings you up to speed on the modeling and properties of this technology is:
-
-Emil Björnson, Henk Wymeersch, Bho Matthiesen, Petar Popovski, Luca Sanguinetti, Elisabeth de Carvalho, "[Reconfigurable Intelligent Surfaces: A Signal Processing Perspective With Wireless Applications](https://arxiv.org/pdf/2102.00742)", arXiv:2102.00742.
